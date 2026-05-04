@@ -1,4 +1,4 @@
-# Pokemon Classifier
+# 🔎 What's This Mon? - Pokemon Classifier
 
 > ResNet18 transfer learning으로 150종 포켓몬을 분류하는 이미지 분류기.
 
